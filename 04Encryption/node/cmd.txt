@@ -1,0 +1,2 @@
+ติดตั้งโมดูลผ่าน npm
+- npm install bcrypt
